@@ -1,4 +1,4 @@
-# Francisco RiveraVazquez
+# Francisco Rivera
 ##### Rosharon, Texas, United States Cell: 713-628-0164
 ##### franciscojriveravazquez@gmail.com
 ##### linkedin.com/in/francisco-riveravazquez-ba38751a8
@@ -40,7 +40,7 @@
 ##### 2010 - 2011
 #### Polytechnic University of Puerto Rico
 #### Bachelor of Science - BS, Land Surveying and Mapping
-#####2002 - 2007
+##### 2002 - 2007
 ### Skills
 Geographic Information Systems (GIS)   •   LiDAR   •   Python (Programming Language)   •   Knime   
 Data Analysis   •   Data Science   •   Computer-Aided Design (CAD)   •   Jupyter
