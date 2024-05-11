@@ -13,7 +13,7 @@
 ##### Jan 2014 - May 2020 (6 years 5 months)
 ##### Assist project management in the planning and preparation of pipeline and jumper installation projects.
 ##### Develop database for data collection and analysis. Conduct post processing data cleaning and
-calculations to further develop report to meet client needs and deadlines.
+##### calculations to further develop report to meet client needs and deadlines.
 #### Military Intelligence Analyst
 #### US Army
 ##### May 2009 - Dec 2013 (4 years 8 months)
