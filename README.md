@@ -5,10 +5,7 @@ Data Science Professional
 -------------------------
 
 * 🌍  I'm based in Houston, TX
-* 🖥️  See my portfolio at [FranJav\_Portfolio](http://github.com/CodeFranJav/FranJav_Portfolio)
 * ✉️  You can contact me at [franciscojriveravazquez@gmail.com](mailto:franciscojriveravazquez@gmail.com)
-* 🧠  I'm learning Knime
-* 🤝  I'm open to collaborating on Python Data Science projects
 
 ### Skills
 
@@ -21,6 +18,13 @@ Data Science Professional
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/CodeFranJav" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/francisco-riveravazquez-ba38751a8/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Projects
+
+
+### Certifications
+Google AI Essentials
+
 
 ### Badges
 
