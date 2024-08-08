@@ -22,8 +22,8 @@ Data Science Professional
 ### Projects
 | Description                                   | Link        |
 |-----------------------------------------------|----------------------------|
-| Customer spending habits data                 | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Customer spending habits data                 | https://github.com/CodeFranJav/Customer-Spending-Habits-Dataset-
+| COVID cases resulting in deaths by month      | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
