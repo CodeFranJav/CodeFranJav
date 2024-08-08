@@ -24,9 +24,10 @@ Data Science Professional
 |-----------------------------------------------|-------------------------------------------------------------------------------------|
 | Customer spending habits data                 | https://github.com/CodeFranJav/Customer-Spending-Habits-Dataset-
 | COVID cases resulting in deaths by month      | https://github.com/CodeFranJav/Connecticut-COVID-cases-resulting-in-deaths-by-month |
+| Decision Tree with Knime
 
 ### Certifications
-Google AI Essentials
+- Google AI Essentials
 
 
 ### Badges
@@ -36,8 +37,6 @@ Google AI Essentials
 <a href="http://www.github.com/CodeFranJav"><img src="https://github-readme-stats.vercel.app/api?username=CodeFranJav&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="CodeFranJav's GitHub stats" /></a>
 
 <a href="http://www.github.com/CodeFranJav"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeFranJav&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/CodeFranJav"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=CodeFranJav&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/CodeFranJav" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeFranJav&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
