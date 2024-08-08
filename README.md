@@ -24,7 +24,7 @@ Data Science Professional
 |-----------------------------------------------|-------------------------------------------------------------------------------------|
 | Customer spending habits data                 | https://github.com/CodeFranJav/Customer-Spending-Habits-Dataset-
 | COVID cases resulting in deaths by month      | https://github.com/CodeFranJav/Connecticut-COVID-cases-resulting-in-deaths-by-month |
-| GPA prediction with Knime                     | 
+| GPA prediction with Knime                     | https://github.com/CodeFranJav/GPA-Predictor                                        |
 
 ### Certifications
 - Google AI Essentials
