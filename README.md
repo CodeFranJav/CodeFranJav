@@ -24,7 +24,7 @@ Data Science Professional
 |-----------------------------------------------|-------------------------------------------------------------------------------------|
 | Customer spending habits data                 | https://github.com/CodeFranJav/Customer-Spending-Habits-Dataset-
 | COVID cases resulting in deaths by month      | https://github.com/CodeFranJav/Connecticut-COVID-cases-resulting-in-deaths-by-month |
-| Decision Tree with Knime
+| GPA prediction with Knime                     | 
 
 ### Certifications
 - Google AI Essentials
@@ -38,8 +38,6 @@ Data Science Professional
 
 <a href="http://www.github.com/CodeFranJav"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeFranJav&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/CodeFranJav" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeFranJav&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
