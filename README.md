@@ -27,8 +27,8 @@ Data Science Professional
 | GPA prediction with Knime                     | https://github.com/CodeFranJav/GPA-Predictor                                        |
 
 ### Certifications
+- IBM data Science Professional
 - Google AI Essentials
-
 
 ### Badges
 
