@@ -1,4 +1,4 @@
-Welcome, my name is Francisco Javier Rivera Vazquez
+Francisco Javier Rivera Vazquez
 =======================================================================================================================================================
 
 Data Science Professional
